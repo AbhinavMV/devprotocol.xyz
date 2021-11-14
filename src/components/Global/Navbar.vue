@@ -194,7 +194,9 @@
           </div>
         </div>
         <div class="relative">
-          <a class="navbar-item" href="https://stakes.social/"> Launch App </a>
+          <a class="md:hidden navbar-item" href="https://stakes.social/">
+            Launch App
+          </a>
         </div>
       </div>
     </nav>
